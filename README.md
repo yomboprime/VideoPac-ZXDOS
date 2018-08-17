@@ -2,7 +2,7 @@
 Videopac / Odyssey 2 core for ZXDOS
 
 
-Port of the Videopac fpga core to ZXDOS
+This is a port of the Videopac fpga core to ZXDOS
 
 This is a derivative work of the Original Mist project: http://ws0.org/tag/videopac/
 
