@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/media/datos/Devel/xilinxise/ZXDOS/fpga_videopac/syn/ZX_Uno/bld/zxuno_xs6_vp.ncd
+OUTFILE=/media/datos/Devel/xilinxise/ZXDOS/fpga_videopac/syn/ZX_Uno/bld/zxuno_xs6_vp.bit
+FAMILY=Spartan6
+PART=xc6slx16-2ftg256
+WORKINGDIR=/media/datos/Devel/xilinxise/ZXDOS/fpga_videopac/syn/ZX_Uno/bld
+LICENSE=WebPack
+USER_INFO=210693277_0_0_514

@@ -1,0 +1,32 @@
+Release 14.7 - ngc2edif P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design zxuno_xs6_vp.ngc ...
+WARNING:NetListWriters:298 - No output is written to zxuno_xs6_vp.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus vp_console_b/db_to_cpu_s[7 : 0] on block
+   zxuno_xs6_vp is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   vp_console_b/t8048_b/t48_core_b/decoder_b/_n0622[38 : 10] on block
+   zxuno_xs6_vp is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   vp_console_b/vdc_b/core_b/cpuio_b/reg_overlap_q[7]_GND_66_o_mux_530_OUT[7 :
+   0] on block zxuno_xs6_vp is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   vp_console_b/vdc_b/core_b/cpuio_b/reg_overlap_q[7 : 0] on block zxuno_xs6_vp
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   vp_console_b/vdc_b/core_b/cpuio_b/reg_enoverlap_q[7 : 0] on block
+   zxuno_xs6_vp is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   vp_console_b/t8048_b/t48_core_b/bus_mux_b/data_o[7 : 0] on block zxuno_xs6_vp
+   is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file zxuno_xs6_vp.edif ...
+ngc2edif: Total memory usage is 126132 kilobytes
+
